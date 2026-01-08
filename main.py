@@ -9,7 +9,7 @@ st.set_page_config(page_title="MAG7 + SPY Options Dashboard", layout="wide")
 CACHE_DURATION_HOURS = 2
 
 # Tickers including SPY
-TICKERS = ["AAPL", "MSFT", "GOOGL", "AMZN", "META", "NVDA", "TSLA", "SPY"]
+TICKERS = ["AAPL", "MSFT", "GOOGL", "AMZN", "META", "NVDA", "TSLA", "JPM", "SPY"]
 
 # Custom CSS for better styling
 st.markdown("""
